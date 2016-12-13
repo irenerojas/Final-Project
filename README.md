@@ -6,4 +6,4 @@ being on the biggest cities in the us new york faces many challenges....
 
 
 
-The New York City Police Department records reported crime and offense data based upon the New York State Penal Law and other New York State laws. For statistical presentation purposes the numerous law categories and subsections are summarized by law class, Felony, Misdemeanor and Violation. The tabular data compiles reported crime and offense data recorded by the New York City Police Department. Separate tables are presented for the Seven Major Felonies, Non-Seven Major Felony Crimes, Misdemeanors and Violations.
+The New York City Police Department records reported crime and offense data based upon the New York State Penal Law and other New York State laws. For statistical presentation purposes the numerous law categories and subsections are summarized by law class, Felony, Misdemeanor and Violation. The tabular data compiles reported crime and offense data recorded by the New York City Police Department. Separate tables are presented for the Seven Major Felonies, Non-Four Major Felony Crimes, Misdemeanors and Violations.
